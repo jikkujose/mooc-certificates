@@ -11,4 +11,4 @@ Course Name | University | Date | Score | Provider | Certificate
 [csr]: http://www.coursera.com
 
 [c1_link]: https://www.coursera.org/course/datascitoolbox
-[c1_cert]: https://github.com/JikkuJose/mooc-certificates/blob/master/certificates/c1.pdf
+[c1_cert]: https://github.com/JikkuJose/mooc-certificates/blob/master/certificates/c1.pdf?raw=true
